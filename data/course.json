@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Game Theory"
+    ]
+  ],
+  "legacy_uid": "9c8d2d88-0e34-31a1-471f-558c9bb0b5ef",
+  "instructors": {
+    "content": [
+      "114556ab-4e11-bfc2-ab71-2fe2c3eeb3b0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "67cbe75f-b46e-9d36-621e-265cb6ae7133",
+    "website": "14-12-economic-applications-of-game-theory-fall-2012"
+  },
+  "course_title": "Economic Applications of Game Theory",
+  "course_description": "Game Theory, also known as Multiperson Decision Theory, is the analysis of situations in which the payoff of a decision maker depends not only on his own actions but also on those of others. Game Theory has applications in several fields, such as economics, politics, law, biology, and computer science. In this course, I will introduce the basic tools of game theoretic analysis. In the process, I will outline some of the many applications of Game Theory, primarily in economics.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.12",
+  "course_image_thumbnail": {
+    "content": "5f010b52-449e-21fc-5891-5b035ef00763",
+    "website": "14-12-economic-applications-of-game-theory-fall-2012"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "c2ef9137-54b9-47de-b422-24a4dc1c1f11",
+  "site_short_id": "14.12-fall-2012",
+  "site_url_path": "courses/14-12-economic-applications-of-game-theory-fall-2012",
+  "title": "Course Metadata"
+}
