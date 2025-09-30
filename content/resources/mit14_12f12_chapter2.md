@@ -4,6 +4,8 @@ description: This resource contains information regarding decision theory.
 file: /courses/14-12-economic-applications-of-game-theory-fall-2012/dc2132d365c6f2ab8b35f9b5976574f6_MIT14_12F12_chapter2.pdf
 file_size: 309395
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource contains information regarding selected problems.
 file: /courses/14-12-economic-applications-of-game-theory-fall-2012/947b34e09116f448f48c84147340ad81_MIT14_12F12_Selected_Prob.pdf
 file_size: 264239
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

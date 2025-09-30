@@ -4,6 +4,8 @@ description: This resource contains information regarding introduction.
 file: /courses/14-12-economic-applications-of-game-theory-fall-2012/624bf7cc4b26e29962b1c6c9814ceae5_MIT14_12F12_Slides1.pdf
 file_size: 841101
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
