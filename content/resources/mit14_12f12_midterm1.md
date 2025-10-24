@@ -4,8 +4,6 @@ description: This resource contains information regarding 2012 midterm 1.
 file: /courses/14-12-economic-applications-of-game-theory-fall-2012/652cd4e48c216fba2c4c4501ed2c76f0_MIT14_12F12_midterm1.pdf
 file_size: 124178
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

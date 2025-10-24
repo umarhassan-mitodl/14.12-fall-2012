@@ -4,8 +4,6 @@ description: This resource contains information regarding subgame-perfect nash e
 file: /courses/14-12-economic-applications-of-game-theory-fall-2012/bd9e085ddc6ac588af52505bb228177a_MIT14_12F12_chapter10.pdf
 file_size: 297785
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource contains information regarding problem set 3 solution
 file: /courses/14-12-economic-applications-of-game-theory-fall-2012/d84670f6abe9d20fc0382373c7514f33_MIT14_12F12_pset3sol.pdf
 file_size: 167232
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

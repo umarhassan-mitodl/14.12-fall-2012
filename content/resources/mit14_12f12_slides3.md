@@ -4,8 +4,6 @@ description: This resource contains information regarding representation of game
 file: /courses/14-12-economic-applications-of-game-theory-fall-2012/639bdf709a7bfa2fea2047244a6bfa73_MIT14_12F12_slides3.pdf
 file_size: 2615760
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
